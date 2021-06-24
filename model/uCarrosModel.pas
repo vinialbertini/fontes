@@ -1,4 +1,4 @@
-unit uCarros;
+unit uCarrosModel;
 
 interface
 
@@ -41,7 +41,7 @@ end;
 procedure TCarros.SetModelo(const AValue: string);
 begin
   if AValue = EmptyStr then
-    raise Exception.Create('Modelo n„o informado!');
+    raise Exception.Create('Modelo n√£o informado!');
   FModelo := AValue;
 end;
 
