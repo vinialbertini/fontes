@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/09/12 23:22:36.785,=C:\TesteFortes\Test\TestRetornaLitros.pas</Transaction>
+    <Transaction>2021/09/12 23:22:40.736,=C:\TesteFortes\uAbastecimento.pas</Transaction>
+    <Transaction>2021/09/12 23:36:15.200,=C:\TesteFortes\uAbastecimento_Interface.pas</Transaction>
+    <Transaction>2021/09/12 23:36:47.983,=C:\TesteFortes\uAbastecimentoController.pas</Transaction>
+    <Transaction>2021/09/12 23:37:13.091,=C:\TesteFortes\UDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>
